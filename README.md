@@ -1,4 +1,4 @@
-# -PHBS-Blockchain_2018
+# PHBS-Blockchain_2018
 # Financial Risk of Bitcoin From the Perspective of Price Fluctuation
 ## Intruduction
 In recent years, the digital currency economy represented by Bitcoin has developed rapidly, attracting widespread attention from scholars, regulators and the public. In the ten years since 2008, it has initially formed a relatively complete industrial chain and trading market.
