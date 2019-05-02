@@ -45,8 +45,8 @@ First, I use estimation window data as sample and calculate the average return. 
 
 The estimation window covers from 100 days to 11 days before the event, a total of 90 days, which is taken as the event sample. The event window includes 21 days, ranging from 10 days before the event to 10 days after the event. The post-event window includes 20 days, which is 10 days after the event window.
 
-                     ![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table1.PNG)
-                     ![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table2.PNG)
+>>>>>>![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table1.PNG)
+>>>>>>![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table2.PNG)
 
 On the event day, the abnormal rate of return of Bitcoin showed a large depreciation, indicating that the event had a significant impact on the price. Four days before the event, Bitcoin price began to fluctuate slightly. It may come from early market operation of virus makers. In the 10 days after the event, there were many large fluctuations, which could be regard as the result of the constant influence of the virus and it was the process of expansion and spread. Even if there were several spanking, the cumulative abnormal return of Bitcoin had mainly increased. It can be concluded that the event had a positive corresponding effect on the price of Bitcoin. During the post-event window, the cumulative abnormal yield continued to increase and reached the peak on the 12th day, which then slightly shook but still showed an overall upward trend. It could be seen as the result of the continuous impact.
 
