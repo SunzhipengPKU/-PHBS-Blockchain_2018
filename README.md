@@ -41,12 +41,12 @@ This event had a huge influence on Bitcoin prices. First, although the ransomwar
 
 Suppose ARit is the abnormal return of asset i in period t. ARit should equal to the real return Rit in the event window minus expected return ERit
 
-![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/%E5%85%AC%E5%BC%8F1.PNG)
+![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/%E5%85%AC%E5%BC%8F1-1.PNG)
 
 
 First, I use estimation window data as sample and calculate the average return. This value can be seen as the expected return in the event window. Then I normalize the abnormal return in the last two windows
 
-![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/%E5%85%AC%E5%BC%8F2.PNG)
+![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/%E5%85%AC%E5%BC%8F2-2.PNG)
 
 > The data are all selected from [OKCoin](https://www.okcoin.cn/), one of the top three Bitcoin trading platforms in China. I choose the value of Bitcoin/USD and adopt closing price at 8:00 am Beijing time.
 
