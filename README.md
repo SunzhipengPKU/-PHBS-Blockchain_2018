@@ -34,22 +34,23 @@ This event had a huge influence on Bitcoin prices. First, although the ransomwar
 
 Suppose ARit is the abnormal return of asset i in period t. ARit should equal to the real return Rit in the event window minus expected return ERit
 
-![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/%E5%85%AC%E5%BC%8F1.PNG)
+                 ![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/%E5%85%AC%E5%BC%8F1.PNG)
 
 
 First, I use estimation window data as sample and calculate the average return. This value can be seen as the expected return in the event window. Then I normalize the abnormal return in the last two windows
 
 ![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/%E5%85%AC%E5%BC%8F2.PNG)
-The data are all selected from [OKCoin](https://www.okcoin.cn/), one of the top three Bitcoin trading platforms in China. I choose the value of Bitcoin/USD and adopt closing price at 8:00 am Beijing time.
+
+>> The data are all selected from [OKCoin](https://www.okcoin.cn/), one of the top three Bitcoin trading platforms in China. I choose the value of Bitcoin/USD and adopt closing price at 8:00 am Beijing time.
 
 The estimation window covers from 100 days to 11 days before the event, a total of 90 days, which is taken as the event sample. The event window includes 21 days, ranging from 10 days before the event to 10 days after the event. The post-event window includes 20 days, which is 10 days after the event window.
 
-![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table1.PNG)
-![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table2.PNG)
+                     ![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table1.PNG)
+                     ![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table2.PNG)
 
 On the event day, the abnormal rate of return of Bitcoin showed a large depreciation, indicating that the event had a significant impact on the price. Four days before the event, Bitcoin price began to fluctuate slightly. It may come from early market operation of virus makers. In the 10 days after the event, there were many large fluctuations, which could be regard as the result of the constant influence of the virus and it was the process of expansion and spread. Even if there were several spanking, the cumulative abnormal return of Bitcoin had mainly increased. It can be concluded that the event had a positive corresponding effect on the price of Bitcoin. During the post-event window, the cumulative abnormal yield continued to increase and reached the peak on the 12th day, which then slightly shook but still showed an overall upward trend. It could be seen as the result of the continuous impact.
 
-![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/figure2.png)
+                     ![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/figure2.png)
 
 In the WannaCry ransomware event, the empirical test result is basically consistent with the objective situation. ]It is a bad event, but from the perspective of bitcoin trading market, it highlights the characteristics of bitcoin. WannaCry ransomware attack has caused bad social impact, but it has made more people know about bitcoin. Therefore, this event has a positive effect on the Bitcoin trading market in the early stage. 
 
