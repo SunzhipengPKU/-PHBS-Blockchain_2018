@@ -52,8 +52,11 @@ First, I use estimation window data as sample and calculate the average return. 
 
 The estimation window covers from 100 days to 11 days before the event, a total of 90 days, which is taken as the event sample. The event window includes 21 days, ranging from 10 days before the event to 10 days after the event. The post-event window includes 20 days, which is 10 days after the event window.
 
-![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table1.PNG)
-![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table2.PNG)
+Table 1  Observation window of WannaCry ransomware event
+![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table1-1.PNG)
+
+Table 2 Abnormal return during the observation window
+![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/table2-2.PNG)
 
 * On the event day, the abnormal rate of return of Bitcoin showed a large depreciation, indicating that the event had a significant impact on the price.
 
