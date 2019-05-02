@@ -14,7 +14,9 @@ Most scholars regard Bitcoin as a financial asset to discuss the characteristics
 
 > As for financial regulation, since the development of digital currency, most countries have introduced suitable regulatory measures for their own markets according to international status and domestic conditions, and often adjust regulatory measures with market changes. Since 2016, some sovereign states have also proposed the concept of legal digital currency. 
 
-> *The UK is the first country to implement the concept of legal digital currency and introduce the prototype system. In March 2016, the UK proposed the RScoin central bank cryptocurrency, which is the world's first legal digital currency prototype system regulated by central bank. Since then many countries have embarked on digital currency research led by central Banks. In 2016, Canada started to develop the digital version of Canadian dollar CADcoin, called the experiment of block chain technology project which is code-named Jasper and will be run in two experimental stages. In June 2017, the monetary authority of Singapore (MAS) announced a project implemented by domestic banks, Deloitte and distributed ledger consortium (R3), which sought to launch Singapore's digital currency SGD on distributed ledger.
+>> 1.The UK is the first country to implement the concept of legal digital currency and introduce the prototype system. In March 2016, the UK proposed the RScoin central bank cryptocurrency, which is the world's first legal digital currency prototype system regulated by central bank. Since then many countries have embarked on digital currency research led by central Banks. 
+>> 2.In 2016, Canada started to develop the digital version of Canadian dollar CADcoin, called the experiment of block chain technology project which is code-named Jasper and will be run in two experimental stages. 
+>> 3.In June 2017, the monetary authority of Singapore (MAS) announced a project implemented by domestic banks, Deloitte and distributed ledger consortium (R3), which sought to launch Singapore's digital currency SGD on distributed ledger.
 
 ## Theoretical Analysis of Bitcoin Price Risk 
 
