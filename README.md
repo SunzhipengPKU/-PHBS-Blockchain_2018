@@ -36,6 +36,7 @@ Suppose ARit is the abnormal return of asset i in period t. ARit should equal to
 
 ![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/%E5%85%AC%E5%BC%8F1.PNG)
 
+
 First, I use estimation window data as sample and calculate the average return. This value can be seen as the expected return in the event window. Then I normalize the abnormal return in the last two windows
 
 ![Cattributes](https://github.com/SunzhipengPKU/figure-and-table/blob/master/%E5%85%AC%E5%BC%8F2.PNG)
@@ -57,11 +58,11 @@ Mainstream academic researchers believe that digital currency regulation should 
 
 China should utilize and encourage financial innovation as well as achieving the effectiveness of its supervision. On the one hand, financial innovation should be encouraged and inclusive management measures should be implemented in due course by gradually relaxing the control within a certain range. The government should have little involvement in the development of innovative businesses until this board grows up to a certain scale. And then the authority intervenes and gradually increases the management force. On the other hand, Fintech should be used to lay out the digital currency infrastructure and promote its application. It is time to speed up the understanding of digital currency among regulators, utilize industry organization to strengthen the forward-looking research. Financial institutions should actively embrace Fintech and consider cooperation, merger or acquisition of Fintech companies. From the perspective of digital currency, banking institutions may highlight their own characteristics and achieve a win-win situation with digital currency industry. China's strict regulatory control are still under discussion. Now it is necessary to define the connotation of digital currency, improve the legal system and establish a multi-dimensional supervision system. Regulators should make financial services more "inclusive" and "regulated at different levels", so as to achieve the effectiveness of financial regulation. We cannot totally reject advanced Fintech, nor can digital currencies lead to new systemic financial risk or even crisis. 
 
-> References
-1.Brown, & William, L. . (2014). An analysis of bitcoin market efficiency through measures of short-horizon return predictability and market liquidity.
-2.Kurihara. Y. & A. Fukushima（2017）. The market efficiency of bitcoin: A weekly anomaly perspective. Journal of Applied Finance & Banking
-3.Buchholz, M., Delaney, J., Warren, J., Parker, J. (2012). Bits and Bets, Information, Price Volatility, and Demand for BitCoin. Economics 
-4.Yermack, D. (2013). Is bitcoin a real currency? an economic appraisal. Handbook of Digital Currency, 31–43.
-5.Ortisi, M. . (2016). Bitcoin market volatility analysis using grand canonical minority game. Social Science Electronic Publishing,1, 111-118.
-6.Zhu, Y. , Dickinson, D. , & Li, J. . (2017). Erratum to: analysis on the influence factors of bitcoin’s price based on vec model. Financial Innovation, 3(1).
-7.(2015). 互联网经济背景下虚拟货币价格形成机制研究——以比特币为例. (Doctoral dissertation, 中国海洋大学).
+## References
+1. Brown, & William, L. . (2014). An analysis of bitcoin market efficiency through measures of short-horizon return predictability and market liquidity.
+2. Kurihara. Y. & A. Fukushima（2017）. The market efficiency of bitcoin: A weekly anomaly perspective. Journal of Applied Finance & Banking.
+3. Buchholz, M., Delaney, J., Warren, J., Parker, J. (2012). Bits and Bets, Information, Price Volatility, and Demand for BitCoin. Economics.
+4. Yermack, D. (2013). Is bitcoin a real currency? an economic appraisal. Handbook of Digital Currency, 31–43.
+5. Ortisi, M. . (2016). Bitcoin market volatility analysis using grand canonical minority game. Social Science Electronic Publishing,1, 111-118.
+6. Zhu, Y. , Dickinson, D. , & Li, J. . (2017). Erratum to: analysis on the influence factors of bitcoin’s price based on vec model. Financial Innovation, 3(1).
+7. (2015). 互联网经济背景下虚拟货币价格形成机制研究——以比特币为例. (Doctoral dissertation, 中国海洋大学).
